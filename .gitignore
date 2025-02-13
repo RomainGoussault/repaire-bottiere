@@ -1,0 +1,16 @@
+# Jekyll site
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Mac specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ruby environment
+.ruby-version
+.ruby-gemset
+.bundle/
+vendor/
