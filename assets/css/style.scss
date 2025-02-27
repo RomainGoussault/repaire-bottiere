@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Custom styles below
+.page-header {
+  background-color: #995700;
+  background-image: linear-gradient(120deg, #FAD227, #0097B2);
+}
+
+// Optional: customize other elements
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    color: #0097B2;
+  }
+}
+
+// Example: change link colors
+// Import Inconsolata font from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap');
+
+// Set custom font
+body {
+    font-family: 'Inconsolata', monospace;
+}
+
+// Link styles
+a {
+    color: #A2845E;
+    &:hover {
+        color: #A2845E;
+    }
+}
