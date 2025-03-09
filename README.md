@@ -1,6 +1,6 @@
 
 
-<img src="image.png" width="500" alt="Octocat">
+<img src="banner.png" width="100%" alt="Le Repaire Bottière">
 
 
 ## Infos pratiques
@@ -13,9 +13,10 @@
 
 ## Nos objectifs
 
-* Donner une seconde vie aux objets, notamment au petit électroménager.
+* S'implanter dans la Bottière.
+* Soutenir le pouvoir d'achat de nos usagers.ères
 * Transmettre l'envie et les compétences pour réparer soi-même.
-* Donner une seconde vie aux objets, notamment au petit électroménager
+* Donner une seconde vie aux objets, notamment au petit électroménager.
 * Sensibiliser aux enjeux de la réparabilité.
 
 
