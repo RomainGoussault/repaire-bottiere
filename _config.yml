@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
-title: Repaire Bottière
+title:Le Repaire Bottière
 description: Venez réparez vos objets!
 github:
   is_project_page: false

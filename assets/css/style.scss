@@ -3,7 +3,12 @@
 
 @import "{{ site.theme }}";
 
-// Custom styles below
+
+header {
+  display: none;
+}
+
+// Not needed anymore as we don't have header
 .page-header {
   background-color: #995700;
   background-image: linear-gradient(120deg, #FAD227, #0097B2);
@@ -22,7 +27,7 @@
 
 // Set custom font
 body {
-    font-family: 'Inconsolata', monospace;
+    font-family: 'Hind Madurai';
 }
 
 // Link styles
