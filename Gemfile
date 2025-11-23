@@ -9,3 +9,4 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 gem "webrick", "~> 1.9"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-seo-tag"
+gem "openssl", "~> 3.3.1"
