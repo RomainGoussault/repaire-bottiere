@@ -8,6 +8,7 @@
 * Tous les 3èmes samedis du mois, de 10h à 13h.
 * Au Bô Café du Beau Tiers Lieu, 71 Rue de la Bottière, 44300 Nantes.
 * Gratuit et ouvert à toutes et tous!
+* L'association existe depuis septembre 2024.
 * Les prochaines dates :
   * Samedi 13 decembre 2025 (2ème samedi du mois exceptionnellement)
   * Samedi 17 janvier 2026
@@ -31,12 +32,12 @@
 * Sensibiliser aux enjeux de la réparabilité.
 
 
-## Bilan année 2024
+## Bilan année 2025
 
 * 11 cafés réparations
-* 26 adhérents et adhérentes
+* 21 adhérents et adhérentes
 * 70 visiteurs et visiteuses pour une réparation ou un café
-* 60% d'objets réparés, principalement du petit électroménager.
+* Plus de 60 objets apportés dont 80% d'objets réparés, principalement du petit électroménager.
 
 
 ## Nos partenaires
